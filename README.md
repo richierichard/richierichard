@@ -93,14 +93,13 @@ Currently at **[keylight GmbH](https://www.keylight.de/)** in Berlin, where I'm 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=richierichard&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0c10&title_color=4ade80&icon_color=22d3ee&text_color=e8eaf0&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richierichard&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0c10&title_color=4ade80&text_color=e8eaf0&langs_count=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=richierichard&theme=matrix&no-bg=true&no-frame=true&column=4&margin-w=10" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=richierichard&theme=chartreuse-dark&hide_border=true&background=0a0c10&stroke=4ade80&ring=4ade80&fire=22d3ee&currStreakLabel=4ade80&sideLabels=e8eaf0&dates=7a8099&currStreakNum=e8eaf0&sideNums=e8eaf0" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=richierichard&bg_color=0a0c10&color=4ade80&line=22d3ee&point=4ade80&area=true&area_color=4ade80&hide_border=true" />
 
 </div>
 
@@ -109,7 +108,7 @@ Currently at **[keylight GmbH](https://www.keylight.de/)** in Berlin, where I'm 
 ### 🏢 Career timeline
 
 ```
-2023 – Present  Senior DevOps Engineer        keylight GmbH          Berlin, Germany
+2023 – Present  Senior DevOps Engineer         keylight GmbH          Berlin, Germany
 2022 – 2023     Lead DevOps Engineer           Yababa GmbH            Berlin, Germany
 2018 – 2022     DevOps Engineer                Spark Networks         Berlin, Germany
 2018            Lead DevOps                    Quicko / Whatfix       India
