@@ -93,13 +93,6 @@ Currently at **[keylight GmbH](https://www.keylight.de/)** in Berlin, where I'm 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=richierichard&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0c10&title_color=4ade80&icon_color=22d3ee&text_color=e8eaf0&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richierichard&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0c10&title_color=4ade80&text_color=e8eaf0&langs_count=6" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=richierichard&theme=chartreuse-dark&hide_border=true&background=0a0c10&stroke=4ade80&ring=4ade80&fire=22d3ee&currStreakLabel=4ade80&sideLabels=e8eaf0&dates=7a8099&currStreakNum=e8eaf0&sideNums=e8eaf0" />
 
 </div>
